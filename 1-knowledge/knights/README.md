@@ -1,0 +1,3 @@
+# **KNOWLEDGE** 
+
+An exercise to create a Knowledge Base that is able to solve logical puzzles, in this case, the Knights and Knaves puzzle. The objective of the puzzle, is given a set of sentences spoken by each of the characers, determine, for each character, whether the character is a knight or a knave. This is solved by using propositional logic, and creating an AI that runs a **Model-Checking Algorithm** that could solve these puzzles. 
